@@ -10,7 +10,7 @@ Polyglot Polyplatform Dependency Management
 * ProtoBuff gRpc for clients
 * IPFS for content storage (blobs, scripts, ...)
 # Model
-![model](https://raw.githubusercontent.com/yenwel/LaarzenTrekker/blob/master/Dependency.png)
+![model](https://raw.githubusercontent.com/yenwel/LaarzenTrekker/master/Dependency.png)
 
 
 
