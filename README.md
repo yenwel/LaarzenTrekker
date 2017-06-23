@@ -1,7 +1,7 @@
 # LaarzenTrekker
 Polyglot Polyplatform Dependency Management
 # Goal
-* Platform and language agnostic dependency management
+* polyglot and polyplatform embeddable dependency management
 * Distributed by default
 * Safe and secure
 # Architecture
