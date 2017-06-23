@@ -15,3 +15,4 @@ Polyglot Polyplatform Dependency Management
 https://github.com/stepancheg/grpc-rust
 https://github.com/arangodb/arangodb/
 https://rbtcollins.wordpress.com/2012/08/27/why-platform-specific-package-systems-exist-and-wont-go-away/
+https://medium.com/@DmitrySoshnikov/rust-lalr-1-parser-generator-a623b64164e4
